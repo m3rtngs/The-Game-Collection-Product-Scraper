@@ -25,7 +25,7 @@ This project is a Python script that scrapes the [The Game Collection](https://w
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/game-collection-scraper.git
+   git clone https://github.com/m3rtngs/The-Game-Collection-Product-Scraper.git
    ```
 2. Install the required dependencies:
    ```
